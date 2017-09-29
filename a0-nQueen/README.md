@@ -1,8 +1,6 @@
 To execute
-python a0.py arg1 arg2 arg3 arg4
+## python a0.py arg1 arg2 arg3 arg4
 
-
-### where,
 ### arg1 could be 'nrook' or 'nqueen'
 ### arg2 is the value of n
 ### arg3 is the x coordinate of the blocked position
