@@ -1,5 +1,5 @@
 # To execute
-## ./route.py [start-city] [end-city] [routing-algorithm] [cost-function]
+## python route.py [start-city] [end-city] [routing-algorithm] [cost-function]
 <br/>where: 
 <br/>routing-algorithm could be either bfs, dfs, uniform, or astar, and
 <br/>cost-function could be either segments, distance, or time.
