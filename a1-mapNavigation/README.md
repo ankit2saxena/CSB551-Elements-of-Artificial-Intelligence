@@ -1,7 +1,8 @@
 # To execute
 ## ./route.py [start-city] [end-city] [routing-algorithm] [cost-function]
-<br/>where routing-algorithm could be either bfs, dfs, uniform, or astar.
-<br/>and cost-function could be either segments, distance, or time.
+<br/>where: 
+<br/>routing-algorithm could be either bfs, dfs, uniform, or astar, and
+<br/>cost-function could be either segments, distance, or time.
 
 <br/>city-gps.txt contains one line per city, with three fields per line, delimited by spaces. The first field is the city, followed by the latitude, followed by the longitude.
 
